@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ZiAng-but/ZiAng-but** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 我是 Z YY
+
+
+
+## 技术栈
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,html,css,javascript,typescript,jquery,less,scss,tailwind,react,nextjs,redux,vue,nuxt,pinia,electron,webpack,vite,npm,yarn,pnpm,md,git,python,express,nodejs,nestjs,prisma,mysql,redis,vercel,docker,linux,vscode,idea,webstorm,pycharm,postman,ps" />
+  </a>
+</p>
